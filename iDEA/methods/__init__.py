@@ -8,4 +8,3 @@ class Methods(Enum):
     HARTREE_FOCK = 4
     LDA = 5
     HYBRID = 6
-    KSSCE = 7
